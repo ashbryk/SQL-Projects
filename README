@@ -1,1 +1,69 @@
-Projects completed throught DataCamp Coursework. Projects in this folder are completed with the assistance of DataCamp.
+# SQL & MySQL for Data Analytics and Business Intelligence
+
+This repository documents my journey and the skills I have gained from completing the course on SQL & MySQL for Data Analytics and Business Intelligence.
+Throughout this course, I have developed a robust foundation in SQL, learning to manage data and draw actionable insights that can drive business decisions.
+
+## Course Overview
+
+The course was structured to build skills progressively, starting from SQL basics to more advanced data analytics and business intelligence applications. 
+It covered a range of topics necessary for understanding and working with relational databases using SQL and MySQL.
+
+## Skills Acquired
+
+### SQL and MySQL Fundamentals
+- Understanding the architecture and design of relational databases.
+- Basic understanding of database management system (DBMS) functionalities.
+
+### Basic to Advanced SQL Queries
+- Crafting SQL queries to extract data.
+- Filtering, sorting, and controlling the flow of SQL queries.
+
+### Data Manipulation
+- Inserting, updating, and deleting records within a database.
+- Managing transactions to maintain data integrity.
+
+### Database Design
+- Applying normalization rules to design efficient database structures.
+- Implementing indexing to expedite query processes.
+
+### Functions and Expressions
+- Utilizing SQL functions for data calculations and formatting.
+- Managing string, date, and time manipulations within SQL queries.
+
+### Data Analytics Techniques
+- Understanding the role of SQL in data warehousing and ETL processes.
+- Basic principles of data analysis and how to extract meaningful insights.
+
+### SQL for Business Reporting
+- Designing and generating reports using SQL.
+- Creating visual representations of data for better business understanding.
+
+### Query Optimization
+- Writing optimized SQL queries for better performance.
+- Diagnosing and rewriting inefficient queries.
+
+### Real-World Applications
+- Engaging in hands-on projects to apply SQL skills to business scenarios.
+- Analyzing datasets and generating business intelligence reports.
+
+### Security Best Practices
+- Learning how to secure database access and data privacy.
+
+### Tools and Interfaces
+- Gaining experience with tools like phpMyAdmin and MySQL Workbench.
+
+## Projects
+
+This section can be updated with individual projects completed during the course. Each project will have its own folder and README describing the objectives, processes involved, and outcomes.
+
+
+## Future Learning Goals
+
+- To continuously apply the skills to real-world data analysis tasks.
+- To learn more about integrating SQL databases with other business intelligence tools.
+- To stay updated with the latest trends in SQL and database management.
+
+---
+
+For more information on the course or to undertake a similar journey, visit [Udemy](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/).
+
